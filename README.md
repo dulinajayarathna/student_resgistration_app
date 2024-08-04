@@ -78,9 +78,11 @@ Virtual environment package (`virtualenv`) installed
 
 ## Dependencies
 
- Django~=5.0.7
- djangorestframework~=3.15.2
- mysqlclient~=2.2.4
+-Django~=5.0.7
+
+-djangorestframework~=3.15.2
+
+-mysqlclient~=2.2.4
  python-dotenv~=1.0.1
 
 ## DIAGRAM
