@@ -19,4 +19,4 @@ class StudentSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Student
-        fields = "_all_"
+        fields = "__all__"
