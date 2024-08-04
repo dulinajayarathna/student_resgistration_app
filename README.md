@@ -83,4 +83,5 @@ Virtual environment package (`virtualenv`) installed
  mysqlclient~=2.2.4
  python-dotenv~=1.0.1
 
-
+## DIAGRAM
+![usecase diagram](assests/usecase_diagram.png)
