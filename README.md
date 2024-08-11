@@ -27,7 +27,7 @@ Virtual environment package (`virtualenv`) installed
 2. Navigate to the project directory:
 
     ```sh
-    cd <student_resgistration_app-directory>
+    cd <student_resgistration_app>
     ```
 
 3. Create a virtual environment and activate it:
