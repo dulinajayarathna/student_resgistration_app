@@ -9,6 +9,7 @@ class Student(models.Model):
     - dob: The student's date of birth
     - email: The student's unique email address
     """
+
     first_name = models.CharField(max_length=20)
     last_name = models.CharField(max_length=20)
     dob = models.DateField()
