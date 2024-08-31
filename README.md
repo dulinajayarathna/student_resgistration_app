@@ -85,4 +85,3 @@ mysqlclient~=2.2.4
 python-dotenv~=1.0.1
 
 
-
