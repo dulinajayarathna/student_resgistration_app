@@ -21,13 +21,13 @@ Virtual environment package (`virtualenv`) installed
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/dulinajayarathna/student_resgistration_app.git>
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd <project-directory>
+    cd <student_resgistration_app>
     ```
 
 3. Create a virtual environment and activate it:
@@ -84,5 +84,4 @@ djangorestframework~=3.15.2
 mysqlclient~=2.2.4
 python-dotenv~=1.0.1
 
-## DIAGRAM
-![usecase diagram](assests/usecase_diagram.png)
+
